@@ -1,3 +1,15 @@
+# SkillWorth
+
+Transforming Africa’s skill-to-job gap into measurable, predictable career success through data-driven mentorship.
+
+## Mission
+
+The challenge in African tech education isn't a lack of courses; it’s the absence of reliable guidance and verifiable placement success.
+
+    “I’m building the platform I wish existed when I was trying to find my way.”
+
+SkillWorth transforms undirected learning into data-driven career paths, leveraging analytics to scale mentorship quality.
+
 # React + Vite + shadcn/ui Starter Template
 
 A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
@@ -96,5 +108,3 @@ The template includes dark mode support through Tailwind's `dark:` classes and C
 ## 🤝 Contributing
 
 Feel free to submit issues and enhancement requests!
-
-
